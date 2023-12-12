@@ -34,7 +34,7 @@ import warnings; warnings.simplefilter('ignore')
 
 """# Load Data"""
 
-df = pd.read_csv('amazon.csv', on_bad_lines = 'skip')
+df = pd.read_csv('TrackMate Dataset.csv', on_bad_lines = 'skip')
 
 df_new = df.copy()
 df_new.tail(7)
@@ -171,7 +171,7 @@ data_produk_baru_1 = [
     ]
 
 df_new = df_new.append(data_produk_baru_1, ignore_index=True)
-df_new.to_csv('amazon.csv', index=False)
+df_new.to_csv('TrackMate Dataset.csv', index=False)
 
 jumlah_baris = len(df_new)
 print(f"Jumlah baris dalam dataset: {jumlah_baris}")
