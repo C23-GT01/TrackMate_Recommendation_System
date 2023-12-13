@@ -9,3 +9,8 @@ This is the final syntax we used to create the TrackMate Recommendation System
 Thanks to the people<br>
 [![Community](https://camo.githubusercontent.com/8ec9e6a22bfa04658c8586434639fdffea0d7044bacf375e9577de8e8bffe082/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4a325149304c33764a77763633536d33697349393063747875787a6e7a36376441744a514e32767537776e557577743957632d574937567549687776723079567244506663376b424e3575735a7a37356e44575f6b3936704366635a42786e664e7a76565330673d77363030)](https://github.com/C23-GT01)
 
+## Contributors
+
+Special thanks to the following individuals who have contributed to this project:
+
+[![Contributors](https://contrib.rocks/image?repo=C23-GT01/TrackMate_Recommendation_System)](https://github.com/C23-GT01/TrackMate_Recommendation_System/graphs/contributors)
